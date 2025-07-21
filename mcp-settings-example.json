@@ -4,7 +4,7 @@
       "command": "node",
       "args": ["path/to/clickup-mcp-server/build/index.js"],
       "env": {
-        "CLICKUP_API_TOKEN": "your_api_token_here"
+        "CLICKUP_API_TOKEN": "pk_218475615_6T1IIW1TXWLC45WVDUKI1ZL0NJHO5Y3O"
       },
       "disabled": false,
       "autoApprove": []
